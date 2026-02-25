@@ -1,0 +1,1477 @@
+{
+  "generated_at": "2026-02-21T19:29:59.288160",
+  "assets": {
+    "gold_usd": {
+      "jp": "ゴールド(USD)",
+      "en": "Gold (USD)",
+      "color": "#F5C842",
+      "symbol": "XAU/USD"
+    },
+    "gold_jpy": {
+      "jp": "ゴールド(円)",
+      "en": "Gold (JPY)",
+      "color": "#FFB300",
+      "symbol": "円建て金"
+    },
+    "sp500": {
+      "jp": "S&P500",
+      "en": "S&P 500",
+      "color": "#4ECDC4",
+      "symbol": "SPX"
+    },
+    "usdjpy": {
+      "jp": "ドル円",
+      "en": "USD/JPY",
+      "color": "#FF6B6B",
+      "symbol": "USD/JPY"
+    },
+    "eurjpy": {
+      "jp": "ユーロ円",
+      "en": "EUR/JPY",
+      "color": "#A8DADC",
+      "symbol": "EUR/JPY"
+    }
+  },
+  "data": {
+    "gold_usd": [
+      {
+        "month": 2,
+        "month_jp": "2月",
+        "month_en": "Feb",
+        "avg_return": 0.698,
+        "win_rate": 52.7,
+        "median_return": 0.157,
+        "max_return": 16.209,
+        "min_return": -18.218,
+        "std_return": 5.421,
+        "sample_count": 55,
+        "recent_5y": [
+          -6.1,
+          6.2,
+          -5.22,
+          0.3,
+          2.06
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 3,
+        "month_jp": "3月",
+        "month_en": "Mar",
+        "avg_return": 0.522,
+        "win_rate": 49.1,
+        "median_return": 0.0,
+        "max_return": 14.425,
+        "min_return": -22.292,
+        "std_return": 5.923,
+        "sample_count": 55,
+        "recent_5y": [
+          -1.53,
+          1.54,
+          7.7,
+          9.26,
+          9.25
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 4,
+        "month_jp": "4月",
+        "month_en": "Apr",
+        "avg_return": 0.837,
+        "win_rate": 56.4,
+        "median_return": 0.596,
+        "max_return": 12.813,
+        "min_return": -9.146,
+        "std_return": 4.475,
+        "sample_count": 55,
+        "recent_5y": [
+          3.61,
+          -2.11,
+          1.11,
+          2.38,
+          5.3
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 5,
+        "month_jp": "5月",
+        "month_en": "May",
+        "avg_return": 0.434,
+        "win_rate": 49.1,
+        "median_return": -0.166,
+        "max_return": 12.663,
+        "min_return": -9.965,
+        "std_return": 4.522,
+        "sample_count": 55,
+        "recent_5y": [
+          7.79,
+          -3.13,
+          -1.37,
+          1.81,
+          0.02
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 6,
+        "month_jp": "6月",
+        "month_en": "Jun",
+        "avg_return": 0.392,
+        "win_rate": 41.8,
+        "median_return": -0.583,
+        "max_return": 22.035,
+        "min_return": -11.111,
+        "std_return": 5.986,
+        "sample_count": 55,
+        "recent_5y": [
+          -7.16,
+          -1.64,
+          -2.18,
+          -0.05,
+          0.43
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 7,
+        "month_jp": "7月",
+        "month_en": "Jul",
+        "avg_return": 0.583,
+        "win_rate": 56.4,
+        "median_return": 0.566,
+        "max_return": 10.902,
+        "min_return": -8.231,
+        "std_return": 4.208,
+        "sample_count": 55,
+        "recent_5y": [
+          2.47,
+          -2.31,
+          2.32,
+          5.26,
+          -0.4
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 8,
+        "month_jp": "8月",
+        "month_en": "Aug",
+        "avg_return": 1.305,
+        "win_rate": 56.4,
+        "median_return": 1.081,
+        "max_return": 20.006,
+        "min_return": -11.159,
+        "std_return": 5.18,
+        "sample_count": 55,
+        "recent_5y": [
+          -0.01,
+          -3.09,
+          -1.24,
+          2.24,
+          4.79
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 9,
+        "month_jp": "9月",
+        "month_en": "Sep",
+        "avg_return": 1.108,
+        "win_rate": 54.5,
+        "median_return": 0.536,
+        "max_return": 17.994,
+        "min_return": -11.552,
+        "std_return": 5.954,
+        "sample_count": 55,
+        "recent_5y": [
+          -3.13,
+          -2.98,
+          -4.71,
+          5.25,
+          11.91
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 10,
+        "month_jp": "10月",
+        "month_en": "Oct",
+        "avg_return": 0.257,
+        "win_rate": 45.5,
+        "median_return": -0.215,
+        "max_return": 10.342,
+        "min_return": -16.847,
+        "std_return": 4.456,
+        "sample_count": 55,
+        "recent_5y": [
+          1.49,
+          -1.6,
+          7.27,
+          4.15,
+          3.73
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 11,
+        "month_jp": "11月",
+        "month_en": "Nov",
+        "avg_return": 1.093,
+        "win_rate": 56.4,
+        "median_return": 0.393,
+        "max_return": 14.41,
+        "min_return": -9.339,
+        "std_return": 5.167,
+        "sample_count": 55,
+        "recent_5y": [
+          -0.51,
+          8.29,
+          2.68,
+          -3.29,
+          5.71
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 12,
+        "month_jp": "12月",
+        "month_en": "Dec",
+        "avg_return": 1.055,
+        "win_rate": 54.5,
+        "median_return": 0.42,
+        "max_return": 30.616,
+        "min_return": -10.391,
+        "std_return": 5.789,
+        "sample_count": 55,
+        "recent_5y": [
+          3.08,
+          3.16,
+          1.32,
+          -1.12,
+          2.0
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      }
+    ],
+    "gold_jpy": [
+      {
+        "month": 2,
+        "month_jp": "2月",
+        "month_en": "Feb",
+        "avg_return": -0.185,
+        "win_rate": 54.5,
+        "median_return": 1.039,
+        "max_return": 10.397,
+        "min_return": -18.9,
+        "std_return": 5.06,
+        "sample_count": 44,
+        "recent_5y": [
+          6.11,
+          -0.81,
+          2.31,
+          -0.96,
+          -3.69
+        ],
+        "recent_5y_years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "month": 3,
+        "month_jp": "3月",
+        "month_en": "Mar",
+        "avg_return": 0.617,
+        "win_rate": 53.5,
+        "median_return": 0.434,
+        "max_return": 10.697,
+        "min_return": -10.916,
+        "std_return": 4.647,
+        "sample_count": 43,
+        "recent_5y": [
+          2.29,
+          7.37,
+          5.07,
+          10.23,
+          8.8
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 4,
+        "month_jp": "4月",
+        "month_en": "Apr",
+        "avg_return": 0.681,
+        "win_rate": 48.8,
+        "median_return": -0.133,
+        "max_return": 8.481,
+        "min_return": -4.836,
+        "std_return": 3.422,
+        "sample_count": 43,
+        "recent_5y": [
+          2.25,
+          4.5,
+          3.71,
+          6.75,
+          0.46
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 5,
+        "month_jp": "5月",
+        "month_en": "May",
+        "avg_return": 0.268,
+        "win_rate": 51.2,
+        "median_return": 0.319,
+        "max_return": 8.174,
+        "min_return": -7.989,
+        "std_return": 3.712,
+        "sample_count": 43,
+        "recent_5y": [
+          8.17,
+          -4.0,
+          0.81,
+          1.49,
+          0.72
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 6,
+        "month_jp": "6月",
+        "month_en": "Jun",
+        "avg_return": -0.311,
+        "win_rate": 48.8,
+        "median_return": -0.286,
+        "max_return": 7.576,
+        "min_return": -12.241,
+        "std_return": 4.185,
+        "sample_count": 43,
+        "recent_5y": [
+          -5.95,
+          3.73,
+          1.36,
+          2.23,
+          0.39
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 7,
+        "month_jp": "7月",
+        "month_en": "Jul",
+        "avg_return": 0.151,
+        "win_rate": 55.8,
+        "median_return": 0.349,
+        "max_return": 8.822,
+        "min_return": -7.809,
+        "std_return": 3.605,
+        "sample_count": 43,
+        "recent_5y": [
+          1.19,
+          -4.09,
+          0.9,
+          -1.94,
+          4.29
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 8,
+        "month_jp": "8月",
+        "month_en": "Aug",
+        "avg_return": 0.966,
+        "win_rate": 63.6,
+        "median_return": 1.069,
+        "max_return": 21.402,
+        "min_return": -8.737,
+        "std_return": 5.432,
+        "sample_count": 44,
+        "recent_5y": [
+          0.24,
+          1.04,
+          0.99,
+          -0.3,
+          2.2
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 9,
+        "month_jp": "9月",
+        "month_en": "Sep",
+        "avg_return": 0.827,
+        "win_rate": 54.5,
+        "median_return": 0.408,
+        "max_return": 13.413,
+        "min_return": -11.372,
+        "std_return": 5.546,
+        "sample_count": 44,
+        "recent_5y": [
+          -2.01,
+          1.11,
+          -2.21,
+          3.42,
+          12.58
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 10,
+        "month_jp": "10月",
+        "month_en": "Oct",
+        "avg_return": -0.218,
+        "win_rate": 52.3,
+        "median_return": 0.16,
+        "max_return": 10.254,
+        "min_return": -22.821,
+        "std_return": 6.203,
+        "sample_count": 44,
+        "recent_5y": [
+          4.0,
+          1.08,
+          8.97,
+          10.25,
+          7.98
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 11,
+        "month_jp": "11月",
+        "month_en": "Nov",
+        "avg_return": 1.117,
+        "win_rate": 61.4,
+        "median_return": 0.684,
+        "max_return": 10.115,
+        "min_return": -6.36,
+        "std_return": 4.225,
+        "sample_count": 44,
+        "recent_5y": [
+          -1.27,
+          0.48,
+          0.32,
+          -4.74,
+          7.2
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 12,
+        "month_jp": "12月",
+        "month_en": "Dec",
+        "avg_return": 0.211,
+        "win_rate": 54.5,
+        "median_return": 0.545,
+        "max_return": 8.465,
+        "min_return": -11.106,
+        "std_return": 4.436,
+        "sample_count": 44,
+        "recent_5y": [
+          4.86,
+          -1.98,
+          -3.58,
+          3.79,
+          2.32
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      }
+    ],
+    "sp500": [
+      {
+        "month": 2,
+        "month_jp": "2月",
+        "month_en": "Feb",
+        "avg_return": 0.186,
+        "win_rate": 59.6,
+        "median_return": 0.851,
+        "max_return": 7.129,
+        "min_return": -10.994,
+        "std_return": 4.073,
+        "sample_count": 47,
+        "recent_5y": [
+          -3.14,
+          -2.61,
+          5.17,
+          -1.42,
+          0.54
+        ],
+        "recent_5y_years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "month": 3,
+        "month_jp": "3月",
+        "month_en": "Mar",
+        "avg_return": 0.846,
+        "win_rate": 63.0,
+        "median_return": 1.564,
+        "max_return": 9.675,
+        "min_return": -12.511,
+        "std_return": 4.326,
+        "sample_count": 46,
+        "recent_5y": [
+          4.24,
+          3.58,
+          3.51,
+          3.1,
+          -5.75
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 4,
+        "month_jp": "4月",
+        "month_en": "Apr",
+        "avg_return": 1.532,
+        "win_rate": 69.6,
+        "median_return": 1.036,
+        "max_return": 12.683,
+        "min_return": -8.796,
+        "std_return": 4.011,
+        "sample_count": 46,
+        "recent_5y": [
+          5.24,
+          -8.8,
+          1.46,
+          -4.16,
+          -0.76
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 5,
+        "month_jp": "5月",
+        "month_en": "May",
+        "avg_return": 1.079,
+        "win_rate": 71.7,
+        "median_return": 1.184,
+        "max_return": 9.19,
+        "min_return": -8.199,
+        "std_return": 3.648,
+        "sample_count": 46,
+        "recent_5y": [
+          0.55,
+          0.01,
+          0.25,
+          4.8,
+          6.15
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 6,
+        "month_jp": "6月",
+        "month_en": "Jun",
+        "avg_return": 0.447,
+        "win_rate": 63.0,
+        "median_return": 0.483,
+        "max_return": 6.893,
+        "min_return": -8.598,
+        "std_return": 3.579,
+        "sample_count": 46,
+        "recent_5y": [
+          2.22,
+          -8.39,
+          6.47,
+          3.47,
+          4.96
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 7,
+        "month_jp": "7月",
+        "month_en": "Jul",
+        "avg_return": 1.273,
+        "win_rate": 56.5,
+        "median_return": 1.284,
+        "max_return": 9.112,
+        "min_return": -7.901,
+        "std_return": 3.895,
+        "sample_count": 46,
+        "recent_5y": [
+          2.28,
+          9.11,
+          3.11,
+          1.13,
+          2.17
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 8,
+        "month_jp": "8月",
+        "month_en": "Aug",
+        "avg_return": 0.156,
+        "win_rate": 58.7,
+        "median_return": 0.841,
+        "max_return": 11.578,
+        "min_return": -14.58,
+        "std_return": 4.862,
+        "sample_count": 46,
+        "recent_5y": [
+          2.9,
+          -4.24,
+          -1.77,
+          2.28,
+          1.91
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 9,
+        "month_jp": "9月",
+        "month_en": "Sep",
+        "avg_return": -0.834,
+        "win_rate": 47.8,
+        "median_return": -0.24,
+        "max_return": 8.758,
+        "min_return": -11.003,
+        "std_return": 4.545,
+        "sample_count": 46,
+        "recent_5y": [
+          -4.76,
+          -9.34,
+          -4.87,
+          2.02,
+          3.53
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 10,
+        "month_jp": "10月",
+        "month_en": "Oct",
+        "avg_return": 1.235,
+        "win_rate": 63.0,
+        "median_return": 1.878,
+        "max_return": 11.047,
+        "min_return": -21.753,
+        "std_return": 5.932,
+        "sample_count": 46,
+        "recent_5y": [
+          6.92,
+          7.99,
+          -2.2,
+          -0.99,
+          2.27
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 11,
+        "month_jp": "11月",
+        "month_en": "Nov",
+        "avg_return": 2.08,
+        "win_rate": 73.9,
+        "median_return": 2.632,
+        "max_return": 10.752,
+        "min_return": -8.539,
+        "std_return": 4.401,
+        "sample_count": 46,
+        "recent_5y": [
+          -0.83,
+          5.38,
+          8.92,
+          5.73,
+          0.13
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 12,
+        "month_jp": "12月",
+        "month_en": "Dec",
+        "avg_return": 1.167,
+        "win_rate": 69.6,
+        "median_return": 1.249,
+        "max_return": 11.167,
+        "min_return": -9.18,
+        "std_return": 3.606,
+        "sample_count": 46,
+        "recent_5y": [
+          4.36,
+          -5.9,
+          4.42,
+          -2.5,
+          -0.05
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      }
+    ],
+    "usdjpy": [
+      {
+        "month": 2,
+        "month_jp": "2月",
+        "month_en": "Feb",
+        "avg_return": -0.273,
+        "win_rate": 41.1,
+        "median_return": -0.283,
+        "max_return": 8.392,
+        "min_return": -11.852,
+        "std_return": 3.271,
+        "sample_count": 56,
+        "recent_5y": [
+          -0.1,
+          4.7,
+          2.11,
+          -2.95,
+          0.68
+        ],
+        "recent_5y_years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "month": 3,
+        "month_jp": "3月",
+        "month_en": "Mar",
+        "avg_return": 0.17,
+        "win_rate": 49.1,
+        "median_return": -0.039,
+        "max_return": 7.587,
+        "min_return": -10.463,
+        "std_return": 3.532,
+        "sample_count": 55,
+        "recent_5y": [
+          3.87,
+          5.8,
+          -2.5,
+          0.89,
+          -0.43
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 4,
+        "month_jp": "4月",
+        "month_en": "Apr",
+        "avg_return": -0.13,
+        "win_rate": 47.3,
+        "median_return": -0.162,
+        "max_return": 6.715,
+        "min_return": -5.517,
+        "std_return": 2.795,
+        "sample_count": 55,
+        "recent_5y": [
+          -1.29,
+          6.72,
+          2.63,
+          4.29,
+          -4.59
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 5,
+        "month_jp": "5月",
+        "month_en": "May",
+        "avg_return": 0.141,
+        "win_rate": 50.9,
+        "median_return": 0.064,
+        "max_return": 7.39,
+        "min_return": -8.601,
+        "std_return": 2.87,
+        "sample_count": 55,
+        "recent_5y": [
+          0.25,
+          -0.89,
+          2.25,
+          -0.31,
+          0.69
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 6,
+        "month_jp": "6月",
+        "month_en": "Jun",
+        "avg_return": -0.05,
+        "win_rate": 50.9,
+        "median_return": 0.026,
+        "max_return": 6.351,
+        "min_return": -7.965,
+        "std_return": 2.752,
+        "sample_count": 55,
+        "recent_5y": [
+          1.42,
+          5.48,
+          3.57,
+          2.24,
+          -0.01
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 7,
+        "month_jp": "7月",
+        "month_en": "Jul",
+        "avg_return": -0.256,
+        "win_rate": 52.7,
+        "median_return": 0.106,
+        "max_return": 5.973,
+        "min_return": -7.152,
+        "std_return": 3.035,
+        "sample_count": 55,
+        "recent_5y": [
+          -1.26,
+          -1.87,
+          -1.41,
+          -6.75,
+          4.67
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 8,
+        "month_jp": "8月",
+        "month_en": "Aug",
+        "avg_return": -0.382,
+        "win_rate": 47.3,
+        "median_return": -0.182,
+        "max_return": 10.2,
+        "min_return": -5.027,
+        "std_return": 2.735,
+        "sample_count": 55,
+        "recent_5y": [
+          0.29,
+          4.33,
+          2.28,
+          -2.55,
+          -2.46
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 9,
+        "month_jp": "9月",
+        "month_en": "Sep",
+        "avg_return": -0.27,
+        "win_rate": 47.3,
+        "median_return": -0.29,
+        "max_return": 5.372,
+        "min_return": -9.414,
+        "std_return": 2.589,
+        "sample_count": 55,
+        "recent_5y": [
+          1.14,
+          4.17,
+          2.62,
+          -1.74,
+          0.59
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 10,
+        "month_jp": "10月",
+        "month_en": "Oct",
+        "avg_return": -0.131,
+        "win_rate": 56.4,
+        "median_return": 0.368,
+        "max_return": 6.026,
+        "min_return": -15.121,
+        "std_return": 3.684,
+        "sample_count": 55,
+        "recent_5y": [
+          2.45,
+          2.74,
+          1.55,
+          5.86,
+          4.12
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 11,
+        "month_jp": "11月",
+        "month_en": "Nov",
+        "avg_return": 0.261,
+        "win_rate": 50.9,
+        "median_return": 0.033,
+        "max_return": 10.919,
+        "min_return": -10.069,
+        "std_return": 3.784,
+        "sample_count": 55,
+        "recent_5y": [
+          -0.76,
+          -7.18,
+          -2.29,
+          -1.5,
+          1.41
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 12,
+        "month_jp": "12月",
+        "month_en": "Dec",
+        "avg_return": -0.429,
+        "win_rate": 52.7,
+        "median_return": 0.088,
+        "max_return": 7.598,
+        "min_return": -8.527,
+        "std_return": 3.362,
+        "sample_count": 55,
+        "recent_5y": [
+          1.72,
+          -5.01,
+          -4.81,
+          4.96,
+          0.31
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      }
+    ],
+    "eurjpy": [
+      {
+        "month": 2,
+        "month_jp": "2月",
+        "month_en": "Feb",
+        "avg_return": 0.221,
+        "win_rate": 50.0,
+        "median_return": 0.009,
+        "max_return": 8.519,
+        "min_return": -6.597,
+        "std_return": 3.164,
+        "sample_count": 28,
+        "recent_5y": [
+          -0.22,
+          1.95,
+          1.98,
+          -2.83,
+          0.23
+        ],
+        "recent_5y_years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "month": 3,
+        "month_jp": "3月",
+        "month_en": "Mar",
+        "avg_return": 0.641,
+        "win_rate": 59.3,
+        "median_return": 0.669,
+        "max_return": 5.917,
+        "min_return": -7.609,
+        "std_return": 3.139,
+        "sample_count": 27,
+        "recent_5y": [
+          0.89,
+          4.37,
+          -0.08,
+          0.8,
+          3.81
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 4,
+        "month_jp": "4月",
+        "month_en": "Apr",
+        "avg_return": 0.842,
+        "win_rate": 59.3,
+        "median_return": 0.855,
+        "max_return": 6.229,
+        "min_return": -4.888,
+        "std_return": 2.613,
+        "sample_count": 27,
+        "recent_5y": [
+          1.15,
+          1.63,
+          4.34,
+          3.04,
+          -0.07
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 5,
+        "month_jp": "5月",
+        "month_en": "May",
+        "avg_return": -0.385,
+        "win_rate": 66.7,
+        "median_return": 0.858,
+        "max_return": 5.763,
+        "min_return": -9.99,
+        "std_return": 3.642,
+        "sample_count": 27,
+        "recent_5y": [
+          2.0,
+          0.92,
+          -0.83,
+          1.34,
+          0.86
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 6,
+        "month_jp": "6月",
+        "month_en": "Jun",
+        "avg_return": 0.78,
+        "win_rate": 66.7,
+        "median_return": 1.032,
+        "max_return": 5.721,
+        "min_return": -6.925,
+        "std_return": 2.686,
+        "sample_count": 27,
+        "recent_5y": [
+          -1.67,
+          3.01,
+          5.72,
+          1.03,
+          3.85
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 7,
+        "month_jp": "7月",
+        "month_en": "Jul",
+        "avg_return": -0.538,
+        "win_rate": 44.4,
+        "median_return": -0.215,
+        "max_return": 4.272,
+        "min_return": -5.775,
+        "std_return": 2.564,
+        "sample_count": 27,
+        "recent_5y": [
+          -1.14,
+          -4.34,
+          -0.64,
+          -5.77,
+          1.37
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 8,
+        "month_jp": "8月",
+        "month_en": "Aug",
+        "avg_return": -1.071,
+        "win_rate": 29.6,
+        "median_return": -0.548,
+        "max_return": 2.689,
+        "min_return": -6.487,
+        "std_return": 2.551,
+        "sample_count": 27,
+        "recent_5y": [
+          -0.24,
+          2.69,
+          0.84,
+          -0.55,
+          -0.15
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 9,
+        "month_jp": "9月",
+        "month_en": "Sep",
+        "avg_return": 0.318,
+        "win_rate": 59.3,
+        "median_return": 0.813,
+        "max_return": 6.517,
+        "min_return": -6.4,
+        "std_return": 2.729,
+        "sample_count": 27,
+        "recent_5y": [
+          -0.8,
+          1.5,
+          0.06,
+          -0.96,
+          1.01
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 10,
+        "month_jp": "10月",
+        "month_en": "Oct",
+        "avg_return": 0.021,
+        "win_rate": 59.3,
+        "median_return": 1.046,
+        "max_return": 5.072,
+        "min_return": -16.287,
+        "std_return": 3.935,
+        "sample_count": 27,
+        "recent_5y": [
+          2.28,
+          3.62,
+          1.62,
+          3.46,
+          2.35
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 11,
+        "month_jp": "11月",
+        "month_en": "Nov",
+        "avg_return": 0.201,
+        "win_rate": 63.0,
+        "median_return": 0.517,
+        "max_return": 5.284,
+        "min_return": -6.138,
+        "std_return": 3.106,
+        "sample_count": 27,
+        "recent_5y": [
+          -2.7,
+          -2.28,
+          0.55,
+          -4.29,
+          1.95
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "month": 12,
+        "month_jp": "12月",
+        "month_en": "Dec",
+        "avg_return": 1.508,
+        "win_rate": 70.4,
+        "median_return": 1.42,
+        "max_return": 11.857,
+        "min_return": -4.453,
+        "std_return": 3.362,
+        "sample_count": 27,
+        "recent_5y": [
+          2.01,
+          -2.3,
+          -3.49,
+          2.76,
+          1.61
+        ],
+        "recent_5y_years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      }
+    ]
+  }
+}
